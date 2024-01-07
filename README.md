@@ -9,7 +9,7 @@ Azure technologies used for Project: Azure Virtual Machines Static web apps Heal
 
 Features and Functionalities: Interactive and responsive UI. Has many graphical and visual innovative effects. Have an aesthetically pleasing visual design and architecture. Has collection of many web pages including Why Choose Us, Explore Menu, Delivery and Payment, Follow Us, Healthbot etc. User can know about Yegna Delight's Restaurant information through this website.
 
-SCREENSHOT:
+SCREENSHOT'S:
 ![1](https://github.com/sandeep2897/frtproject/assets/149227470/493194c7-0d66-4f5b-8d9a-654e98bb6088)
 ![2](https://github.com/sandeep2897/frtproject/assets/149227470/eafa3e4b-de8b-45b2-a32e-2dcc19c90e7e)
 ![3](https://github.com/sandeep2897/frtproject/assets/149227470/4f292e7b-c088-472b-adab-1c49b9bc929e)
